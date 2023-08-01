@@ -18,10 +18,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2021 - Oct 2021: Research Assistant
+  * Southern University of Science and Technology
+  * FPGA, Digital IC design, AI accelerator
 
 * Fall 2015: Research Assistant
   * Github University
