@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electronic Information Engineering, Wuhan University of Technoloy, 2017
-* B.S. in Architecture from Huazhong University of Science and Technology, 2017
+* B.S. in Architecture, Huazhong University of Science and Technology, 2017
 * M.S. in Electronics and Communication Engineering, Wuhan University of Technoloy, 2019
 * Ph.D in Department of Communications and Computer Engineering, Kyoto University, 2024 (expected)
 
